@@ -223,7 +223,7 @@ export default function Home() {
       </div>
       <div className="bg-gradient-to-r from-black to-indigo-800">
         <Navbar showMenu={showMenu}/>
-        <div className="flex flex-col justify-center items-center text-white pt-32">
+        <div className="flex flex-col justify-center items-center text-white pt-28">
           <div>
             <Image
               src="/assets/logo_big.png"
@@ -235,19 +235,19 @@ export default function Home() {
           <h1 className="text-5xl font-['NexaTextBold'] mt-5 text-center">
             Automated <span className="font-gradient font-['NexaTextHeavy']">DeFi</span> made simple
           </h1>
-          <h1 className="mt-6 font-['NexaTextLight'] text-center">
+          <h1 className="mt-7 text-2xl font-['NexaTextLight'] text-center">
             Light-speed <span className="font-['NexaTextBold']">Swaps</span>,
             Next-level
-            <span className="font-['NexaTextBold']"> Liquidity</span>.
+            <span className="text-2xl font-['NexaTextBold']"> Liquidity</span>.
             Friction-less
-            <span className="font-['NexaTextBold']"> yield farming.</span>
+            <span className="text-2xl font-['NexaTextBold']"> yield farming.</span>
           </h1>
-          <h1 className="text-center">
+          <h1 className=" text-2xl text-center">
             Next-generation
             <span className="font-['NexaTextBold']"> Borrowing</span> and{" "}
             <span className="font-['NexaTextBold']">Staking</span>.
           </h1>
-          <div className="flex mt-6">
+          <div className="flex mt-8">
             <a href="https://champagne.network/swap"><button className="bg-[#10D281] px-6 py-1.5 rounded-lg text-black font-['NexaTextBlack'] mx-2">
               Enter App
             </button></a>
@@ -286,10 +286,10 @@ export default function Home() {
       </div>
       <div className="bg-[#0D0415]">
         <div className="pt-16">
-          <h1 className="text-2xl text-center text-white font-['NexaTextLight']">
+          <h1 className="text-3xl text-center text-white font-['NexaTextLight']">
             Celebrate your victories with earnings and
           </h1>
-          <h1 className="text-2xl text-center text-white font-['NexaTextLight']">
+          <h1 className="text-3xl text-center text-white font-['NexaTextLight']">
             start <span className="font-['NexaTextBlack']">staking</span> and{" "}
             <span className="font-['NexaTextBlack']">spraying</span> with{" "}
             <span className="font-['NexaTextBlack']">Champagne</span>
