@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "NexaTextLight";
+  src: url("/Fonts/Nexa-Light.ttf");
+}
+
+@font-face {
+  font-family: "NexaTextBold";
+  src: url("/Fonts/Nexa-Bold.ttf");
+}
+@font-face {
+  font-family: "NexaTextBlack";
+  src: url("/Fonts/Nexa-Black.ttf");
+}
+@font-face {
+  font-family: "NexaTextHeavy";
+  src: url("/Fonts/Nexa-Heavy.ttf");
+}
+.font-gradient {
+  background: -webkit-linear-gradient(0deg,#b0d2e6, #0770a9 120%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 900;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hamburger.active .bar2 {
+  opacity: 0;
+}
+
+.hamburger.active .bar1 {
+  transform: translateY(10px) rotate(45deg);
+}
+
+.hamburger.active .bar3 {
+  transform: translateY(-10px) rotate(-45deg);
+}
+.hamburger {
+  cursor: pointer;
+}

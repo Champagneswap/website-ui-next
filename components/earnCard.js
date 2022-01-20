@@ -6,9 +6,9 @@ export default function EarnCard() {
           <span className="font-['NexaTextBlack']">0.25%</span>
         </h1>
         <h1 className="font-['NexaTextBold'] text-center">Per Trade</h1>
-        <button className="bg-black text-white rounded-md font-bold text-sm mt-8 mb-4 py-2 px-5">
+          <a href="https://champagne.network/pool"><button className="bg-black text-white rounded-md font-bold text-sm mt-8 mb-4 py-2 px-5">
           Add Liquidity
-        </button>
+          </button></a>
       </div>
     );
   }
