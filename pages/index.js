@@ -21,25 +21,25 @@ export default function Home() {
     {
       title: "Multi-chain AMM",
       content: "The lowest rates for DeFi tokens anywhere. Switch to any blockchains in one click.",
-      btn: "Enter Exchange",
+      btn: "Launching Soon",
       link: "https://app.champagne.network/swap"
     },
     {
       title: "Grape Lending & Leverage",
       content: "Isolated lending markets, elastic interest rates, Leverage long short or create your own market.",
-      btn: "Enter Grape",
+      btn: "Launching Soon",
       link: "https://app.champagne.network/lend"
     },
     {
       title: "Cellar dApps",
       content: "An innovative ecosystem to use dapps gas-efficiently and gain extra yield. Onchain min dapps.",
-      btn: "Enter Cellar",
+      btn: "Launching Soon",
       link: "https://app.champagne.network/swap"
     },
     {
       title: "Cristal staking",
       content: "Earn government rights and 0.05% of all swaps from all chains in one simple place.",
-      btn: "Enter Cellar",
+      btn: "Launching Soon",
       link: "https://app.champagne.network/stake"
     },
     {
@@ -249,7 +249,7 @@ export default function Home() {
           </h1>
           <div className="flex mt-8">
             <a href="https://champagne.network/swap"><button className="bg-[#10D281] px-6 py-1.5 rounded-lg text-black font-['NexaTextBlack'] mx-2">
-              Enter App
+              Launching Soon
             </button></a>
             <a href="https://docs.champagneswap.com"><button className="bg-[#202231] px-6 py-1.5 rounded-lg font-['NexaTextBlack'] mx-2">
               Learn More

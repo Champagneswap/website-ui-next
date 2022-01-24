@@ -10,7 +10,7 @@ export default function GainCard() {
       </h1>
         <a href="https://champagne.network/pool">
         <button className="bg-black text-white rounded-md font-bold text-sm mt-8 mb-4 py-2 px-5">
-        Add Liquidity
+            Launching Soon
       </button></a>
     </div>
   );

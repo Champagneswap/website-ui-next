@@ -93,7 +93,7 @@ export default function Navbar({ showMenu }) {
         <div className="ml-4 hidden md:block">
           <a href="https://app.champagne.network">
           <button className="bg-[#10D281] px-4 py-1 text-sm rounded-lg font-['NexaTextBlack']">
-            Enter App
+            Launching Soon
           </button> </a>
         </div>
         <div className="ml-4 z-[50]">
