@@ -101,7 +101,7 @@ export default function Home() {
 
         <h1 className="text-white text-[16px] mt-8 text-gray-400">Ecosystem</h1>
         <a href="https://analytics.champagneswap.com/"><h1 className="text-white text-[18px]">Analytics</h1></a>
-        <a href="https://discord.com/channels/925751478126260284/"><h1 className="text-white text-[18px]">Discord</h1></a>
+        <a href="https://discord.gg/BUPB2xKYmn/"><h1 className="text-white text-[18px]">Discord</h1></a>
           <a href="https://t.me/champagnedefi"> <h1 className="text-white text-[18px]">Telegram</h1></a>
 
         <div className="flex mt-8">

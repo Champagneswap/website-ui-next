@@ -72,7 +72,7 @@ export default function Footer() {
         <a href="https://docs.champagneswap.com"> <h1 className="text-white font-['NexaTextLight'] mt-4">
           Documentation
         </h1></a>
-        <a href="https://discord.com/channels/925751478126260284/"> <h1 className="text-white font-['NexaTextLight'] mt-4">Discord</h1></a>
+        <a href="https://discord.gg/BUPB2xKYmn/"> <h1 className="text-white font-['NexaTextLight'] mt-4">Discord</h1></a>
       </div>
       <div className="flex flex-col m-6">
         <h1 className="text-white mt-2">PROTOCOL</h1>
