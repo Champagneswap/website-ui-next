@@ -133,7 +133,7 @@ export default function Home() {
               ></path>
             </g>
           </svg></a>
-          <a href="https://discord.com/channels/925751478126260284/"><svg
+          <a href="https://discord.gg/BUPB2xKYmn/"><svg
             data-v-ea960c88=""
             id="discord"
             width="32"
