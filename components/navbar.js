@@ -24,6 +24,8 @@ export default function Navbar({ showMenu }) {
               width={40}
               height={40}
             /></a>
+            <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-07621f73-6bdf-49de-ad84-4407586c1a53"></div>
           </div>
           <a href="https://champagneswap.com">
           <h4 className="mx-1 text-white font-['NexaTextBold']">
